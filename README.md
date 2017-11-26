@@ -1,5 +1,5 @@
 # Removing_mousereads_RNAseq
-This program removes  mouse reads and ambiguous reads  from the aligned SAM files. This program was written for the RNAseq fastq files aligned with novoaligner. 
+The major issue of The RNAseq data  from patient derived xenofraft samples i.e, human tissue that is engrafted and grown is mouse contamination.   This program removes  mouse reads and ambiguous reads  from the aligned SAM files. This program was written for the RNAseq fastq files aligned with novoaligner. 
 
 The program take two input arguments ( human and mouse sam file).
 
